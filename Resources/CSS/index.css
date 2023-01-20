@@ -70,7 +70,14 @@ a.blue {
 }
 
 .body-pic {
-    display: inline-block;
+    display: block;
     position: relative;
+    left: 560px;
+    padding: 20px 0;
 
+}
+
+.first-pg {
+    text-align: center;
+    
 }
