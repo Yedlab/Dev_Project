@@ -36,6 +36,7 @@
 
 .mas-section {
     padding: 20px 50px;
+    text-align: center;
 }
 
 #coach {
@@ -45,6 +46,8 @@
 
 #greets ul {
     list-style-type: none;
+    text-align: left;
+    padding-left: 475px;
 }
 
 
@@ -66,3 +69,8 @@ a.blue {
     color: blue;
 }
 
+.body-pic {
+    display: inline-block;
+    position: relative;
+
+}
