@@ -1,0 +1,68 @@
+.navbar {
+    background-color: white;
+    position: fixed;
+    top: 0;
+    width: 100%;
+
+}
+
+.navbar li {
+    display: inline-block;
+    padding: 0 20px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: black;
+
+}
+
+
+.banner {
+    background-color: #4D00FF;
+    color: white;
+    margin-top: 50px;
+    text-align: center;
+    padding: 100px 0px;
+}
+
+#small-ashley {
+    height: 50px;
+    width: 50px;
+    filter: drop-shadow(5px 5px 5px black); /*need to research this more, doesnt work with img*/
+
+
+}
+
+.mas-section {
+    padding: 20px 50px;
+}
+
+#coach {
+    color: #4D00FF;
+    font-size: 100px;
+}
+
+#greets ul {
+    list-style-type: none;
+}
+
+
+.avatar {
+    background-image: url('../Images/twi-img.png');
+    background-size: cover;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.bold {
+    font-weight: 900;
+}
+
+a.blue {
+    color: blue;
+}
+
